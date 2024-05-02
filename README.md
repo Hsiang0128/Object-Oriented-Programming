@@ -5,10 +5,12 @@
 ## 使用語言
 Python
 ## 開始遊戲
-``` 前置作業
+前置作業
+``` Python
 pip install pygame
 ```
-``` 啟動
+啟動
+``` 
 python 
 ```
 ## 遊戲說明
