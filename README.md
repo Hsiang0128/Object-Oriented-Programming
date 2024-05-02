@@ -1,12 +1,15 @@
 # 物件導向程式設計
-![image](https://github.com/Hsiang0128/Object-Oriented-Programming/blob/main/README_img/%E5%B0%81%E9%9D%A2.png)
 ## 介紹
+![image](https://github.com/Hsiang0128/Object-Oriented-Programming/blob/main/README_img/%E5%B0%81%E9%9D%A2.png)
 這裡是我在這門課中的期末報告，我們設計了一個遊戲，但由於時間匆忙遊戲功能並不算非常完整希望未來有空可以去完善它。
 ## 使用語言
 Python
-## 環境設置
-```
+## 開始遊戲
+``` 前置作業
 pip install pygame
+```
+``` 啟動
+python 
 ```
 ## 遊戲說明
   玩家需要操縱角色去躲避天空中落下的劍，遊戲中存在道具幫助玩家生存，注意別掉入海中會直接導致遊戲結束!
