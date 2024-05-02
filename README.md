@@ -5,9 +5,9 @@
 ## 使用語言
 主要使用Pyton的Pygame庫來完成我的期末程式
 ## 環境設置
-'''
+```
 pip install pygame
-'''
+```
 ## 遊戲說明
   玩家需要操縱角色去躲避天空中落下的劍，遊戲中存在道具幫助玩家生存，注意別掉入海中會直接導致遊戲結束!
   ![image](https://github.com/Hsiang0128/Object-Oriented-Programming/blob/main/README_img/%E4%BB%8B%E7%B4%B9.png)
