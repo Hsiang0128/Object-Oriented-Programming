@@ -1,6 +1,6 @@
 # 物件導向程式設計
 ## 介紹
-![image](https://github.com/Hsiang0128/Object-Oriented-Programming/blob/main/README_img/%E5%B0%81%E9%9D%A2.png)
+![image](./README_img/%E5%B0%81%E9%9D%A2.png)
 這裡是我在這門課中的期末報告，我們設計了一個遊戲，但由於時間匆忙遊戲功能並不算非常完整希望未來有空可以去完善它。
 ## 使用語言
 Python
